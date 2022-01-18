@@ -1,0 +1,39 @@
+body {
+    
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #F5F6CE;
+}
+
+.quem-somos {
+    background-color: darksalmon;
+    color: rgb(3, 3, 3);
+    font-style: oblique;
+}
+
+.margin {
+    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #F5F6CE;
+    color: black;
+}
+
+.serviços {
+    background-color: rgb(173, 113, 133);
+    color: black;
+    font-style: oblique;
+}
+
+.bg-footer {
+    background-color: #F5F6CE;
+    color: rgb(161, 7, 97);
+    font-style: italic;
+    font-size: small;
+}
+
